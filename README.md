@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @YasinH05
+- 👀 I’m interested in Computer Science and Software engineering 
+- 🌱 I’m currently learning Computer Science A Level
